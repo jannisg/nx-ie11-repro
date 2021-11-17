@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "ie11": "apps/ie11",
+    "ie11-e2e": "apps/ie11-e2e"
+  }
+}

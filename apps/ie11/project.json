@@ -17,7 +17,7 @@
         "assets": ["apps/ie11/src/favicon.ico", "apps/ie11/src/assets"],
         "styles": ["apps/ie11/src/styles.css"],
         "scripts": [],
-        "webpackConfig": "@nrwl/react/plugins/webpack"
+        "webpackConfig": "apps/ie11/webpack.config.js"
       },
       "configurations": {
         "production": {
